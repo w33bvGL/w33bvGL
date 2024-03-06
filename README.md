@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" **alt="js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" **alt="vue" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" **alt="js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" **alt="symfony" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" **alt="js" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" **alt="js" width="40" height="40"/>
 </div>
