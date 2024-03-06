@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Thijs (he/they)** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm vahe (he/they)** - I'm a fullstack developer
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,symfony,mysql,redis,kotlin,c#,figma)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
