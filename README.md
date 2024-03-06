@@ -3,11 +3,8 @@
 
 ---
 
-## О себе
 Я - full stack разработчик с увлечением к созданию веб-приложений и решению интересных задач. Мне 19 лет, и я стремлюсь к постоянному развитию в области программирования.
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -43,7 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="figma" **alt="figma" width="40" height="40"/>
 </div>
 </div>
-
+ <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 ## Мои интересы
 В мире разработки я увлечен созданием пользовательских интерфейсов, разработкой новых функциональностей и исследованием новых технологий. В свободное время я также люблю читать книги по программированию, учиться новому и делиться своим опытом с сообществом разработчиков.
 
