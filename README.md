@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm vahe (he/they)** - I'm a fullstack developer
+**I'm vahe ** - I'm a fullstack developer
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,symfony,mysql,postgresql,redis,kotlin,c#,figma)](https://skillicons.dev)<br/>
 
