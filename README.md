@@ -25,6 +25,7 @@ I'm a full stack developer passionate about creating web applications and solvin
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Redis" alt="Redis" width="50" height="50"/>
 </div>
 
 #### Other:
