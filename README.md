@@ -10,8 +10,6 @@
 - 🌱 Знание различных фреймворков и библиотек, таких как Symfony, Vue.js.
 - ⚡ Опыт работы с базами данных, включая MySQL и Redis.
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim)](https://github.com/FajarKim/github-readme-profile)
-
 ### :hammer_and_wrench: Инструменты и технологии
 
 #### Веб-программирование:
