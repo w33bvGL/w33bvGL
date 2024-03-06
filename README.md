@@ -9,8 +9,8 @@
 - 🌌 Опыт работы с HTML, CSS, JavaScript для создания интерфейсов и клиентской логики.
 - 🌱 Знание различных фреймворков и библиотек, таких как Symfony, Vue.js.
 - ⚡ Опыт работы с базами данных, включая MySQL и Redis.
-  
-  ![w33bvGL's Stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![w33bvGL's Stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### :hammer_and_wrench: Инструменты и технологии
 
