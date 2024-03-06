@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="figma" **alt="figma" width="40" height="40"/>
 </div>
 </div>
+
  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 ## Мои интересы
