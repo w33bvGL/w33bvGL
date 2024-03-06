@@ -25,6 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 <p>game dev</p>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" **alt="unrealengine" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" **alt="unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="unity" **alt="unity" width="40" height="40"/>
   <p>Design apps</p>
