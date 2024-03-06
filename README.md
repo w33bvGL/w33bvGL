@@ -27,7 +27,6 @@
 <p>game dev</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" **alt="unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="unity" **alt="unity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <p>Design apps</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="figma" **alt="figma" width="40" height="40"/>
