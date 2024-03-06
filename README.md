@@ -8,6 +8,15 @@
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+### :woman_technologist: About Me :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="badges">
