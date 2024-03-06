@@ -20,7 +20,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" **alt="symfony" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svgg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 </div>
 </div>
 
