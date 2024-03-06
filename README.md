@@ -27,21 +27,15 @@ I'm a full stack developer passionate about creating web applications and solvin
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>
 </div>
 
-#### Game Development:
+#### Other:
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
 </div>
-
-#### Other:
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>
-</div>
-
-
 
 ![w33bvGL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![w33bvGL's Stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=false)
