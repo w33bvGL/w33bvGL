@@ -13,7 +13,17 @@
 
 
 ## Мой стек
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,symfony,python,mysql,postgresql,redis,kotlin,c#,figma,unity)](https://skillicons.dev)<br/>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## Мои интересы
 В мире разработки я увлечен созданием пользовательских интерфейсов, разработкой новых функциональностей и исследованием новых технологий. В свободное время я также люблю читать книги по программированию, учиться новому и делиться своим опытом с сообществом разработчиков.
