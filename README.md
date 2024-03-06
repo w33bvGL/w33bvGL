@@ -36,6 +36,5 @@ I'm a full stack developer passionate about creating web applications and solvin
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
 </div>
-
+---
 ![w33bvGL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![w33bvGL's Stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=false)
