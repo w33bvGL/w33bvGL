@@ -35,12 +35,8 @@ I'm a full stack developer passionate about creating web applications and solvin
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
 </div>
 
-#### Design Apps:
+#### Other:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>
 </div>
-
-- Email: w33bv.gl@gmail.com
-- GitHub: [Профиль на GitHub](https://github.com/w33bvGL)
-
