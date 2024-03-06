@@ -42,8 +42,7 @@ I'm a full stack developer passionate about creating web applications and solvin
 </div>
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat:
-- Email: ваш_емейл@example.com
-- LinkedIn: [Профиль на LinkedIn](ссылка_на_ваш_профиль)
+- Email: w33bv.gl@gmail.com
 - GitHub: [Профиль на GitHub](ссылка_на_ваш_профиль)
 
 Let's discuss project ideas, collaborate on interesting projects, and connect on software development and beyond!
