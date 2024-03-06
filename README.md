@@ -11,6 +11,7 @@
 - ⚡ Опыт работы с базами данных, включая MySQL и Redis.
 
 ![w33bvGL's Stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![w33bvGL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=w33bvGL&theme=vue-dark&hide_border=true)
 
 ### :hammer_and_wrench: Инструменты и технологии
 
