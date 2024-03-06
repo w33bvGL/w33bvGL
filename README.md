@@ -41,8 +41,6 @@ I'm a full stack developer passionate about creating web applications and solvin
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>
 </div>
 
-
-Feel free to reach out if you have any questions, suggestions, or just want to chat:
 - Email: w33bv.gl@gmail.com
-- GitHub: [Профиль на GitHub](ссылка_на_ваш_профиль)
+- GitHub: [Профиль на GitHub](https://github.com/w33bvGL)
 
