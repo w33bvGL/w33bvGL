@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Thijs (he/they)** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,hack,mysql,redis,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,symphony,mysql,redis,figma)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
