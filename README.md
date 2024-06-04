@@ -17,7 +17,6 @@
 - Twitter: [Ваш профиль](https://twitter.com/ваш-профиль)
 
 Буду рад общению и совместным проектам!
-## Социальные бейджи
 ![GitHub followers](https://img.shields.io/github/followers/w33bvGL?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/w33bvGL?style=social)
 
