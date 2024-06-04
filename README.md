@@ -19,5 +19,5 @@
 Буду рад общению и совместным проектам!
 ## GitHub Статистика
 
-![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_юзернейм&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_юзернейм&layout=compact&theme=radical)
+![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=radical)
