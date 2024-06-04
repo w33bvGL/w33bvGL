@@ -18,9 +18,9 @@
 
 Буду рад общению и совместным проектам!
 ## GitHub Статистика
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20)
+<div style="width 50%;">![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20)</div>
 ![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark)
-<div></div>
+
 
 
 ## Активность на GitHub
