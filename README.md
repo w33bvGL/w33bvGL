@@ -21,9 +21,4 @@
 ![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20)
 
-## Активность на GitHub
-<div style="width: 50%;">
-  [![Your Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20)](https://github.com/w33bvGL)
-</div>
-
 ![Vahe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=w33bvGL&theme=react-dark)
