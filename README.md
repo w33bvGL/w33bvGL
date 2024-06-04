@@ -17,9 +17,11 @@
 - Twitter: [Ваш профиль](https://twitter.com/ваш-профиль)
 
 Буду рад общению и совместным проектам!
+## Социальные бейджи
+![GitHub followers](https://img.shields.io/github/followers/w33bvGL?style=social)
+![GitHub stars](https://img.shields.io/github/stars/w33bvGL?style=social)
+
 ## GitHub Статистика
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark" height="250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20" height="250px">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=10)
+
 
