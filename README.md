@@ -18,7 +18,7 @@
 
 Буду рад общению и совместным проектам!
 ## GitHub Статистика
-<div style="display: flex; justify-content: space-betwen;">
+<div style="display: flex; gap: 100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=20" width="30%">
 </div>
