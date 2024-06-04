@@ -21,3 +21,7 @@
 
 ![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=radical)
+
+## Активность на GitHub
+
+![Vahe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=w33bvGL&theme=react-dark)
