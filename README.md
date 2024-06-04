@@ -22,7 +22,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/w33bvGL?style=social)
 
 ## GitHub Статистика
-![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=radical)
+![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&theme=dark&langs_count=10)
 
 
