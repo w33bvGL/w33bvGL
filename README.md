@@ -5,5 +5,5 @@
 
 
 Download ota-ku https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF_dfJpEK_sZdlnaCM/view?usp=sharing
-Jacko w33bvgl.github.io/Jacko/
+Jacko [Open](https://w33bvgl.github.io/Jacko/)
 
