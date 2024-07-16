@@ -10,7 +10,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 # Projects
 
 ### click on the image to view the site
-<div style="display: flex; gap: 20px">
+<div style="display: flex; gap: 20px; flex-direction: row">
 
 [
 <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 120px;">
