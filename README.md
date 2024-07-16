@@ -11,14 +11,11 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 
 ### click on the image to view the site
 <div style="display: flex; gap: 20px; flex-direction: row">
-
-[
-<img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 120px;">
-](https://w33bvgl.github.io/Crito/)
-
-[
-<img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
-](https://w33bvgl.github.io/Crito/)
-  
+  <a href="https://w33bvgl.github.io/Crito/">
+    <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 120px;">
+  </a>
+  <a href="https://w33bvgl.github.io/Crito/">
+    <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
+  </a>
 </div>
 
