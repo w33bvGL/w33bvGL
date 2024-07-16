@@ -38,10 +38,10 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
       </a>
     </td>
   </tr>
-  <tr style="background-color: red">
-    <td  style="background-color: red">
+  <tr>
+    <td>
       <a href="https://w33bvgl.github.io/UDPLogistics/">
-        <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 130px;">
+        <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="height: 35px;">
       </a>
     </td>
   </tr>
