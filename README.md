@@ -8,8 +8,6 @@ Ota-ku anime streaming platform: [Open](https://ota-ku.ru)
 Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF_dfJpEK_sZdlnaCM/view?usp=sharing)
 
 # Projects
-
+[
 <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
-
-Crito: [visit site](https://w33bvgl.github.io/Crito/)
-
+](https://w33bvgl.github.io/Crito/)
