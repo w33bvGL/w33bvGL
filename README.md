@@ -19,7 +19,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
     </td>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="height: 35px;">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 140px;">
       </a>
     </td>
     <td>
