@@ -11,7 +11,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 
 #### 👆 click on the image to view the site
 <table>
-  <tr style="background-color: red">
+  <tr>
     <td>
       <a href="https://ota-ku.ru">
         <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 130px;">
@@ -38,8 +38,8 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
       </a>
     </td>
   </tr>
-  <tr style="">
-    <td>
+  <tr style="background-color: red">
+    <td  style="background-color: red">
       <a href="https://w33bvgl.github.io/UDPLogistics/">
         <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 130px;">
       </a>
