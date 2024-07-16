@@ -32,13 +32,13 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 130px;">
       </a>
     </td>
-    <td bgcolor="red">
+    <td>
       <a href="https://w33bvgl.github.io/UDPLogistics/">
         <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 130px;">
       </a>
     </td>
   </tr>
-  <tr>
+  <tr bgcolor="red">
     <td>
       <a href="https://w33bvgl.github.io/UDPLogistics/">
         <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="height: 35px;">
