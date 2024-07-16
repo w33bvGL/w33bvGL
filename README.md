@@ -27,6 +27,11 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 120px;">
       </a>
     </td>
+    <td>
+      <a href="https://w33bvgl.github.io/ProMotors/">
+        <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 120px;">
+      </a>
+    </td>
   </tr>
 </table>
 
