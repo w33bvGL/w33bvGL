@@ -13,7 +13,9 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 <div style="display: flex; flex-direction: row;>
   
   <div>
-    https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png
+    
+    ![ota-ku logo](https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png)
+    
   </div>
   
 </div>
