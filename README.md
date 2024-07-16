@@ -9,9 +9,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 
 # Projects
 
-<img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 50px;">
-
-<br>
+<img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
 
 Crito: [visit site](https://w33bvgl.github.io/Crito/)
 
