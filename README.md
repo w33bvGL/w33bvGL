@@ -10,10 +10,10 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 # Projects
 
 ### click on the image to view the site
-<table border="0">
+<table>
   <tr>
     <td>
-      <a href="https://w33bvgl.github.io/Crito/">
+      <a href="https://ota-ku.ru">
         <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 120px;">
       </a>
     </td>
