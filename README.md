@@ -10,7 +10,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 # Projects
 
 ### click on the image to view the site
-<table>
+<table border=0>
   <tr>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
