@@ -18,12 +18,12 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
       </a>
     </td>
     <td>
-      <a href="https://w33bvgl.github.io/Crito/">
+      <a href="https://w33bvgl.github.io/Crito/" type="_blank">
         <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
       </a>
     </td>
     <td>
-      <a href="https://w33bvgl.github.io/ProMotors/">
+      <a href="https://w33bvgl.github.io/ProMotors/" type="_blank">
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 120px;">
       </a>
     </td>
