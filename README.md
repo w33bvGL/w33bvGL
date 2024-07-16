@@ -15,5 +15,8 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
   <a href="https://w33bvgl.github.io/Crito/" style="text-decoration: none;">
     <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 120px;">
   </a>
+    <a href="https://w33bvgl.github.io/Crito/" style="text-decoration: none;">
+    <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 120px;">
+  </a>
 </div>
 
