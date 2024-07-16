@@ -12,11 +12,9 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 ### click on the image to view the site
 <div style="display: flex; flex-direction: row;>
   
-  <div>
-    
+
   ![ota-ku logo](https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png)
-  
-  </div>
+
   
 </div>
 
