@@ -11,7 +11,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
 
 #### 👆 click on the image to view the site
 <table>
-  <tr>
+  <tr style="background-color: red">
     <td>
       <a href="https://ota-ku.ru">
         <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 130px;">
