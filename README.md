@@ -32,7 +32,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 130px;">
       </a>
     </td>
-    <td background-color="red">
+    <td bgcolor="red">
       <a href="https://w33bvgl.github.io/UDPLogistics/">
         <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 130px;">
       </a>
