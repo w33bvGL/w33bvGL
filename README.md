@@ -44,6 +44,11 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
         <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 140px;">
       </a>
     </td>
+        <td>
+      <a href="https://w33bvgl.github.io/UDPLogistics/">
+        <img src="https://github.com/w33bvGL/Mozg-BrainTrainers/blob/main/Logo.png" alt="Mozg brainTrainer logo" style="width: 140px;">
+      </a>
+    </td>
   </tr>
 </table>
 
