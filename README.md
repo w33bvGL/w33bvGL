@@ -45,7 +45,7 @@ Ota-ku android app: [download](https://drive.google.com/file/d/1pSBomwCx-Sq-K9QF
       </a>
     </td>
         <td>
-      <a href="https://w33bvgl.github.io/UDPLogistics/">
+      <a href="https://lk.shamil-ahmadullin.ru/">
         <img src="https://github.com/w33bvGL/Mozg-BrainTrainers/blob/main/Logo.png" alt="Mozg brainTrainer logo" style="width: 140px;">
       </a>
     </td>
