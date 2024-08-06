@@ -4,7 +4,7 @@
 ![Vahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=dark)
 
 
-## GitHub stats
+## Projects / Проекты
 
 #### 👆 click on the image to view the site
 <table>
