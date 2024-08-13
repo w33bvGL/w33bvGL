@@ -34,7 +34,7 @@
   <tr>
         <td>
       <a href="https://w33bvgl.github.io/UDPLogistics/">
-        <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 140px;">
+        <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 400px;">
       </a>
     </td>
     <td>
