@@ -39,24 +39,24 @@
     </td>
     <td>
       <a href="https://w33bvgl.github.io/LasesVPN/">
-        <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 140px;">
+        <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 400px;">
       </a>
     </td>
         <td>
       <a href="https://lk.shamil-ahmadullin.ru/">
-        <img src="https://github.com/w33bvGL/Mozg-BrainTrainers/blob/main/Logo.png" alt="Mozg brainTrainer logo" style="width: 140px;">
+        <img src="https://github.com/w33bvGL/Mozg-BrainTrainers/blob/main/Logo.png" alt="Mozg brainTrainer logo" style="width: 400px;">
       </a>
     </td>
     <td>
       <a href="https://www.omexai.com/">
-        <img src="https://www.omexai.com/build/assets/logo-079b894d.svg" alt="omexAi logo" style="width: 140px;">
+        <img src="https://www.omexai.com/build/assets/logo-079b894d.svg" alt="omexAi logo" style="width: 400px;">
       </a>
     </td>
   </tr>
   <tr>
         <td>
       <a href="https://www.omexai.com/">
-        <img src="https://github.com/w33bvGL/driveFit/blob/main/public/img/logo.png" alt="driveFit logo" style="width: 140px;">
+        <img src="https://github.com/w33bvGL/driveFit/blob/main/public/img/logo.png" alt="driveFit logo" style="width: 400px;">
       </a>
     </td>
   </tr>
