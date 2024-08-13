@@ -11,22 +11,22 @@
   <tr>
     <td>
       <a href="https://ota-ku.ru">
-        <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 160px;">
+        <img src="https://github.com/KU-OTA-KU/Ota-ku-Nuxt/blob/main/public/ota-kashima/ota-ku-kashima.png" alt="crito logo" style="width: 200px;">
       </a>
     </td>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 160px;">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 200px;">
       </a>
     </td>
     <td>
       <a href="https://jacko-food.github.io/jacko/">
-        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 160px;">
+        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 200px;">
       </a>
     </td>
     <td>
       <a href="https://w33bvgl.github.io/ProMotors/">
-        <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 160px;">
+        <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 200px;">
       </a>
     </td>
 
