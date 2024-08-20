@@ -6,7 +6,7 @@
 
 ## Projects / Проекты
 
-#### 👆 click on the image to view the site
+#### 👆 click on the image to view the site / нажмите на изображение, чтобы просмотреть сайт
 <table>
   <tr>
     <td>
