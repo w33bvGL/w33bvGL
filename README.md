@@ -55,7 +55,7 @@
   </tr>
   <tr>
         <td>
-      <a href="https://www.omexai.com/">
+      <a href="https://drive-fit.vercel.app/">
         <img src="https://github.com/w33bvGL/driveFit/blob/main/public/img/logo.png" alt="driveFit logo" style="width: 400px;">
       </a>
     </td>
