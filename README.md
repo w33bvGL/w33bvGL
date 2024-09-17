@@ -49,7 +49,7 @@
     </td>
     <td>
       <a href="https://www.omexai.com/">
-        <img src="https://www.omexai.com/build/assets/logo-079b894d.svg" alt="omexAi logo" style="width: 400px;">
+        <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
       </a>
     </td>
   </tr>
