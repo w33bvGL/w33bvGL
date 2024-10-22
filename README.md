@@ -63,7 +63,7 @@
 </table>
 
 #### 🔥 Other projects / Другие проекты
-<a href="https://drive-fit.vercel.app/">
-  <i>podarokru.ru </i>
+<a href="https://podarokru.r/">
+  <i>podarokru.ru</i>
 </a>
 
