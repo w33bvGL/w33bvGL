@@ -65,6 +65,7 @@
 #### 🔥 Other projects / Другие проекты
 <a href="https://podarokru.ru/">
   <i>podarokru.ru</i>
+  <p>wd</p>
 </a>
 <a href="https://lk.shamil-ahmadullin.ru/">
   <i>lk.shamil-ahmadullin.ru</i>
