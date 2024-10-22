@@ -41,12 +41,6 @@
       <a href="https://w33bvgl.github.io/LasesVPN/">
         <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 400px;">
       </a>
-    </td>
-        <td>
-      <a href="https://lk.shamil-ahmadullin.ru/">
-        <img src="https://github.com/w33bvGL/Mozg-BrainTrainers/blob/main/Logo.png" alt="Mozg brainTrainer logo" style="width: 400px;">
-      </a>
-    </td>
     <td>
       <a href="https://www.omexai.com/">
         <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
