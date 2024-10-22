@@ -63,7 +63,10 @@
 </table>
 
 #### 🔥 Other projects / Другие проекты
-<a href="https://podarokru.r/">
+<a href="https://podarokru.ru/">
+  <i>podarokru.ru</i>
+</a>
+<a href="https://podarokru.ru/">
   <i>podarokru.ru</i>
 </a>
 
