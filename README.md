@@ -66,8 +66,5 @@
 <a href="https://podarokru.ru/">
   <i>podarokru.ru</i>
 </a>
-<p>   </p>
-<a href="https://podarokru.ru/">
-  <i>podarokru.ru</i>
-</a>
+
 
