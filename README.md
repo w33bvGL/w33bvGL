@@ -67,7 +67,7 @@
   <a href="https://podarokru.ru/">
   <i>podarokru.ru</i>
   </a>
- w
+ <p>ㅤㅤ</p>
   <a href="https://lk.shamil-ahmadullin.ru/">
     <i>lk.shamil-ahmadullin.ru</i>
   </a>
