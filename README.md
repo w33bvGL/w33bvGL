@@ -46,9 +46,7 @@
         <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
       </a>
     </td>
-  </tr>
-  <tr>
-        <td>
+    <td>
       <a href="https://drive-fit.vercel.app/">
         <img src="https://github.com/w33bvGL/driveFit/blob/main/public/img/logo.png" alt="driveFit logo" style="width: 400px;">
       </a>
