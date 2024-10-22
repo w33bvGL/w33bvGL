@@ -64,7 +64,7 @@
 
 #### 🔥 Other projects / Другие проекты
 <div>
-  <a href="https://podarokru.ru/" type="_blank">
+  <a href="https://podarokru.ru/" target="_blank">
     <i>podarokru.ru</i>
   </a>
   ㅤ
