@@ -58,6 +58,10 @@
   <a href="https://lk.shamil-ahmadullin.ru/">
     <i>lk.shamil-ahmadullin.ru</i>
   </a>
+
+   <a href="https://tgquickclick.netlify.app/">
+    <i>tgquickclick.ru</i>
+  </a>
 </div>
 
 
