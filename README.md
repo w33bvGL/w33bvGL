@@ -1,5 +1,3 @@
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w33bvGL&theme=github_dark)
-
 ## Projects / Проекты
 
 #### 👆 click on the image to view the site / нажмите на изображение, чтобы просмотреть сайт
