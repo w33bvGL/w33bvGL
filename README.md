@@ -1,5 +1,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact&hide_border=true&theme=transparent&card_width=1000&card_height=150)](https://github.com/anuraghazra/github-readme-stats)
-  ㅤ
 ## Projects / Проекты
 
 #### 👆 click on the image to view the site / нажмите на изображение, чтобы просмотреть сайт
