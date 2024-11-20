@@ -61,4 +61,8 @@
    <a href="https://tgquickclick.netlify.app/">
     <i>tgquickclick.ru</i>
   </a>
+    ㅤ
+   <a href="https://quiz.mari-karkas.ru/">
+    <i>quiz.mari-karkas.ru</i>
+  </a>
 </div>
