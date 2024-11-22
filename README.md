@@ -66,3 +66,5 @@
     <i>quiz.mari-karkas.ru</i>
   </a>
 </div>
+
+[![w33bvGL Nuxter profile](https://nuxters.nuxt.com/card/w33bvGL/og.png)](https://nuxters.nuxt.com/w33bvGL)
