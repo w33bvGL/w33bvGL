@@ -14,16 +14,10 @@
       </a>
     </td>
     <td>
-      <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 400px;">
+      <a href="https://www.omexai.com/">
+        <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
       </a>
     </td>
-    <td>
-      <a href="https://w33bvgl.github.io/ProMotors/">
-        <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 400px;">
-      </a>
-    </td>
-
   </tr>
   <tr>
         <td>
@@ -36,13 +30,13 @@
         <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 400px;">
       </a>
     <td>
-      <a href="https://www.omexai.com/">
-        <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
+    <td>
+      <a href="https://w33bvgl.github.io/ProMotors/">
+        <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 400px;">
       </a>
     </td>
-    <td>
-      <a href="https://drive-fit.vercel.app/">
-        <img src="https://github.com/w33bvGL/driveFit/blob/main/public/img/logo.png" alt="driveFit logo" style="width: 400px;">
+      <a href="https://w33bvgl.github.io/Crito/">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="crito logo" style="width: 400px;">
       </a>
     </td>
   </tr>
