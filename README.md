@@ -67,6 +67,6 @@
   </a>
     ㅤ
   <a href="https://w33bvgl.github.io/Crito/">
-    <i>Crito</i>
+    <i>Crito.io</i>
   </a>
 </div>
