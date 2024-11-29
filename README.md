@@ -65,4 +65,8 @@
    <a href="https://quiz.mari-karkas.ru/">
     <i>quiz.mari-karkas.ru</i>
   </a>
+
+  <a href="https://w33bvgl.github.io/Crito/">
+    <i>Crito</i>
+  </a>
 </div>
