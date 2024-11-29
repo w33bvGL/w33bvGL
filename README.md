@@ -18,6 +18,11 @@
         <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
       </a>
     </td>
+    <td colspan="3">
+      <a href="https://w33bvgl.github.io/Crito/">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="width: 400px;">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -33,13 +38,6 @@
     <td>
       <a href="https://w33bvgl.github.io/ProMotors/">
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 400px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="width: 400px;">
       </a>
     </td>
   </tr>
