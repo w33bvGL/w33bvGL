@@ -14,13 +14,13 @@
       </a>
     </td>
     <td>
-      <a href="https://www.omexai.com/">
+      <a href="http://46.174.55.36/">
         <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL/refs/heads/main/sagaOnline5.png" alt="SagaOnline logo" style="height: 60px;">
       </a>
     </td>
     <td>
-      <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="height: 60px;">
+      <a href="https://www.omexai.com/">
+        <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
       </a>
     </td>
   </tr>
@@ -41,8 +41,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.omexai.com/">
-        <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
+      <a href="https://w33bvgl.github.io/Crito/">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="height: 60px;">
       </a>
     </td>
   </tr>
