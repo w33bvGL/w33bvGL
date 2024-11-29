@@ -66,7 +66,7 @@
     <i>quiz.mari-karkas.ru</i>
   </a>
     ㅤ
-  <a href="https://w33bvgl.github.io/Crito/">
-    <i>Crito.io</i>
+  <a href="https://drive-fit.vercel.app/">
+    <i>drivefit.vercel.app</i>
   </a>
 </div>
