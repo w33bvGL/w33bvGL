@@ -40,6 +40,11 @@
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 400px;">
       </a>
     </td>
+    <td>
+      <a href="https://www.omexai.com/">
+        <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
+      </a>
+    </td>
   </tr>
 </table>
 
