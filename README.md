@@ -3,19 +3,24 @@
 #### 👆 click on the image to view the site / нажмите на изображение, чтобы просмотреть сайт
 <table>
   <tr>
-    <td>
+   <td>
       <a href="https://ota-ku.ru">
-        <img src="https://raw.githubusercontent.com/KU-OTA-KU/Ota-ku-frontend/28fdb94c6caef99263e5b4071d8e6e8ded27b904/public/img/logo-red-white.svg" alt="crito logo" style="width: 400px;">
+        <img src="https://raw.githubusercontent.com/KU-OTA-KU/Ota-ku-frontend/28fdb94c6caef99263e5b4071d8e6e8ded27b904/public/img/logo-red-white.svg" alt="Ota-ku logo" style="width: 200px;">
       </a>
     </td>
     <td>
       <a href="https://jacko-food.github.io/jacko/">
-        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 400px;">
+        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 200px;">
       </a>
     </td>
     <td>
       <a href="https://www.omexai.com/">
-        <img src="https://dev.omexai.com/images/logo.svg" alt="omexAi logo" style="width: 400px;">
+        <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://w33bvgl.github.io/UDPLogistics/">
+        <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPLogistics logo" style="width: 200px;">
       </a>
     </td>
   </tr>
