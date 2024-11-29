@@ -15,7 +15,7 @@
     </td>
     <td>
       <a href="https://www.omexai.com/">
-        <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL/refs/heads/main/sagaOnline5.png" alt="SagaOnline logo" style="height: 50px;">
+        <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL/refs/heads/main/sagaOnline5.png" alt="SagaOnline logo" style="height: 70px;">
       </a>
     </td>
     <td>
