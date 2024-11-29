@@ -8,7 +8,7 @@
         <img src="https://raw.githubusercontent.com/KU-OTA-KU/Ota-ku-frontend/28fdb94c6caef99263e5b4071d8e6e8ded27b904/public/img/logo-red-white.svg" alt="crito logo" style="width: 400px;">
       </a>
     </td>
-        <td>
+    <td>
       <a href="https://jacko-food.github.io/jacko/">
         <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 400px;">
       </a>
