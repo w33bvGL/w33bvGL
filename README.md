@@ -20,16 +20,16 @@
     </td>
   </tr>
   <tr>
-        <td>
-      <a href="https://w33bvgl.github.io/UDPLogistics/">
-        <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 400px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://w33bvgl.github.io/LasesVPN/">
-        <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 400px;">
-      </a>
-    <td>
+  <td>
+    <a href="https://w33bvgl.github.io/UDPLogistics/">
+     <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPlogistics logo" style="width: 400px;">
+    </a>
+  </td>
+  <td>
+   <a href="https://w33bvgl.github.io/LasesVPN/">
+     <img src="https://github.com/w33bvGL/LasesVPN/blob/main/img/Logo-white.png" alt="LasesVPN logo" style="width: 400px;">
+   </a>
+  </td>
     <td>
       <a href="https://w33bvgl.github.io/ProMotors/">
         <img src="https://w33bvgl.github.io/ProMotors/img/logo.png" alt="ProMotors logo" style="width: 400px;">
