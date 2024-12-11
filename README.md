@@ -4,8 +4,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://ota-ku.ru">
-        <img src="https://ota-ku.ru/img/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 200px">
+      <a href="https://ota-ku.am">
+        <img src="https://ota-ku.am/img/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 200px">
       </a>
     </td>
     <td>
