@@ -14,7 +14,7 @@
       </a>
     </td>
     <td>
-      <a href="http://46.174.55.36/">
+      <a href="https://sagaonline.ru/">
         <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL/refs/heads/main/sagaOnline5.png" alt="SagaOnline logo" style="height: 60px;">
       </a>
     </td>
