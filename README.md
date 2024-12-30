@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://w33bvgl.github.io/UDPLogistics/">
+      <a href="">
         <img src="https://w33bvgl.github.io/UDPLogistics/resources/img/logo-black.png" alt="UDPLogistics logo" style="width: 400px;">
       </a>
     </td>
@@ -71,5 +71,9 @@
   ㅤ
   <a href="https://drive-fit.vercel.app/">
     <i>drivefit.vercel.app</i>
+  </a>
+  ㅤ
+  <a href="https://w33bvgl.github.io/UDPLogistics/">
+    <i>UDPLogistics.ru</i>
   </a>
 </div>
