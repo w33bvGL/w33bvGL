@@ -5,12 +5,12 @@
   <tr>
     <td>
       <a href="https://ota-ku.am">
-        <img src="https://ota-ku.am/img/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 200px">
+        <img src="https://ota-ku.am/img/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 400px;">
       </a>
     </td>
     <td>
       <a href="https://jacko-food.github.io/jacko/">
-        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="height: 60px;">
+        <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 400px;">
       </a>
     </td>
     <td>
@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="height: 60px;">
+        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="width: 400px;">
       </a>
     </td>
   </tr>
