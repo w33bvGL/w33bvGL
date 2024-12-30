@@ -50,6 +50,14 @@
 
 #### 🔥 Other projects / Другие проекты
 <div>
+  <a href="https://sagaonline.ru/">
+    <i>sagaonline.ru</i>
+  </a>
+  ㅤ
+  <a href="https://sagaonline.ru/account">
+    <i>sagaonline.ru/account</i>
+  </a>
+  ㅤ
   <a href="https://podarokru.ru/">
     <i>podarokru.ru</i>
   </a>
