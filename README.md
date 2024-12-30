@@ -67,8 +67,4 @@
   <a href="https://w33bvgl.github.io/ProMotors/">
     <i>ProMotors.ru</i>
   </a>
-    ㅤ
-  <a href="https://w33bvgl.github.io/UDPLogistics/">
-    <i>UDPLogistics.ru</i>
-  </a>
 </div>
