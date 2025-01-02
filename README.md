@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://github.com/M3TRI/M3TRI">
+    <img src="https://komarev.com/ghpvc/?username=m3tri" alt="page views" />
+  </a>
+</p>
+
 ## Projects / Проекты
 
 #### 👆 Click on the image to view the site / Нажмите на изображение, чтобы просмотреть сайт
