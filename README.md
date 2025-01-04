@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://github.com/w33bvGL/w33bvGL">
-    <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
-  </a>
-</p>
-
 ## Projects / Проекты
 
 #### 👆 Click on the image to view the site / Нажмите на изображение, чтобы просмотреть сайт
@@ -74,3 +68,9 @@
     <i>ProMotors.ru</i>
   </a>
 </div>
+
+<p align="left">
+  <a href="https://github.com/w33bvGL/w33bvGL">
+    <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
+  </a>
+</p>
