@@ -69,6 +69,8 @@
   </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&size_weight=0.5&count_weight=0.5)
+
 <br>
 <p align="left">
   <a href="https://github.com/w33bvGL/w33bvGL">
