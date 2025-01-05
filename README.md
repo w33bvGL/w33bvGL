@@ -70,7 +70,6 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact)
 <p align="left">
   <a href="https://github.com/w33bvGL/w33bvGL">
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
