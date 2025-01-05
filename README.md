@@ -32,8 +32,8 @@
     <i>sagaonline.ru</i>
   </a>
   ㅤ
-  <a href="https://sagaonline.ru/account">
-    <i>sagaonline.ru/account</i>
+  <a href="https://account.sagaonline.ru/">
+    <i>account.sagaonline.ru</i>
   </a>
   ㅤ
   <a href="https://podarokru.ru/">
