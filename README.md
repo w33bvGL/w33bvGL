@@ -69,7 +69,7 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&size_weight=2&count_weight=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact)
 
 <br>
 <p align="left">
