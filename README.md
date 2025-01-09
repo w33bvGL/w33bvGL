@@ -75,6 +75,3 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
-
-### 📈 Статистика GitHub
-![Статистика GitHub w33bvGL](https://github-readme-stats.vercel.app/api?username=w33bvGL&show_icons=true&theme=radical)
