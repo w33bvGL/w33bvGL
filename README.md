@@ -75,5 +75,3 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w33bvGL&layout=compact)
