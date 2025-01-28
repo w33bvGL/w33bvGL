@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-#### 🔥 Other projects / Другие проекты
+## 🔥 Other projects
 <div>
   <a href="https://sagaonline.ru/">
     <i>sagaonline.ru</i>
