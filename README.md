@@ -77,3 +77,15 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://github.com/w33bvGL">
+    <img src="https://komarev.com/ghpvc/?username=w33bvGL&commits=true" alt="commits count" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/w33bvGL">
+    <img src="https://komarev.com/ghpvc/?username=w33bvGL&repos=true" alt="repos count" />
+  </a>
+</p>
