@@ -77,9 +77,3 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
-
-<p align="left">
-  <a href="https://github.com/w33bvGL">
-    <img src="https://github-profile-trophy.vercel.app/?username=w33bvGL&theme=radical" alt="GitHub Trophy" />
-  </a>
-</p>
