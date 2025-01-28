@@ -71,7 +71,7 @@
 <br>
 
 ## Мои достижения
-**7-е место** среди лучших публичных контрибьюторов в Армении на GitHub. [see](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md?fbclid=IwY2xjawIFYixleHRuA2FlbQIxMQABHZUwJw_QWSQ24bm9RwzvLXMI2ZSRtv9DN8DhhJzO0Gdk8Dy8pITL_CH-ug_aem_cqX4w8iGcPSEnBu6gFuR0w)
+**7th place** among Armenia's GitHub contributors. [link](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md?fbclid=IwY2xjawIFYixleHRuA2FlbQIxMQABHZUwJw_QWSQ24bm9RwzvLXMI2ZSRtv9DN8DhhJzO0Gdk8Dy8pITL_CH-ug_aem_cqX4w8iGcPSEnBu6gFuR0w)
 
 <p align="left">
   <a href="https://github.com/w33bvGL/w33bvGL">
