@@ -77,3 +77,9 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://github.com/w33bvGL">
+    <img src="https://activity-graph.herokuapp.com/graph?username=w33bvGL&theme=github" alt="activity count" />
+  </a>
+</p>
