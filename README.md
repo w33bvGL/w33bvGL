@@ -1,6 +1,6 @@
-## Projects
+## 🚀 Projects
 
-#### 👆 Click on the image to view the site / Нажмите на изображение, чтобы просмотреть сайт
+#### 👆 Click on the image to view the site
 <table>
   <tr>
     <td>
