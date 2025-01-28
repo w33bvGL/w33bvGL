@@ -80,6 +80,12 @@
 
 <p align="left">
   <a href="https://github.com/w33bvGL">
+    <img src="https://github-contributions-api.now.sh/graph?username=w33bvGL&theme=light" alt="contributions calendar" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/w33bvGL">
     <img src="https://activity-graph.herokuapp.com/graph?username=w33bvGL&theme=github" alt="activity count" />
   </a>
 </p>
