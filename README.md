@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="https://ota-ku.am">
-        <img src="https://raw.githubusercontent.com/KU-OTA-KU/Ota-ku-frontend/refs/heads/main/assets/ota-kashima/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 400px;">
+        <img src="https://ota-ku.am/ota-kashima/ota-ku-kashima.png" alt="Ota-ku logo" style="width: 400px;">
       </a>
     </td>
     <td>
