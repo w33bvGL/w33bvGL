@@ -28,9 +28,7 @@
 
 ## 🔥 Other projects
 <div>
-  <a href="https://w33bvgl.github.io/Crito/">
-    <i>crito.ru</i>
-  </a>
+  <a href="https://w33bvgl.github.io/Crito/">crito.ru</a>
   ㅤ
   <a href="https://sagaonline.ru/">
     <i>sagaonline.ru</i>
