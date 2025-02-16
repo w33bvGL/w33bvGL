@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://w33bvgl.github.io/Crito/img/Logo.png" alt="Crito logo" style="width: 400px;">
+        <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL-porfolio/refs/heads/main/design-assets/logo-white.png" alt="Crito logo" style="width: 400px;">
       </a>
     </td>
   </tr>
