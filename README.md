@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
-        <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL-porfolio/refs/heads/main/design-assets/logo-white.png" alt="Crito logo" style="width: 400px;">
+        <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL-porfolio/refs/heads/main/design-assets/logo-white-arial.png" alt="Crito logo" style="width: 400px;">
       </a>
     </td>
   </tr>
@@ -28,6 +28,10 @@
 
 ## 🔥 Other projects
 <div>
+  <a href="https://w33bvgl.github.io/Crito/">
+    <i>crito.ru</i>
+  </a>
+  ㅤ
   <a href="https://sagaonline.ru/">
     <i>sagaonline.ru</i>
   </a>
