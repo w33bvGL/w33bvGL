@@ -15,7 +15,7 @@
     </td>
     <td>
       <a href="https://www.omexai.com/">
-        <img src="https://dev.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
+        <img src="https://www.omexai.com/images/logo.svg" alt="OmexAI logo" style="width: 400px;">
       </a>
     </td>
     <td>
