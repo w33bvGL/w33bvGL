@@ -72,7 +72,7 @@
 </div>
 
 ## 🏅 Achievements
-**7th place** among Armenia's GitHub contributors. [link](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/armenia.md)
+**2th place** among Armenia's GitHub contributors. in 2024 [link](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/armenia.md)
 
 <p align="left">
   <a href="https://github.com/w33bvGL/w33bvGL">
