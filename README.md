@@ -28,7 +28,7 @@
 
 ## 🔥 Other projects
 <div>
-  <a href="https://w33bvgl.github.io/Crito/">omexai.com</a> |
+  <a href="https://omexai.com/">omexai.com</a> |
   <a href="https://w33bvgl.github.io/Crito/">crito.ru</a>
   ㅤ
   <a href="https://pandora-saga.com/">
