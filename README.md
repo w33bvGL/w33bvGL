@@ -29,19 +29,10 @@
 ## 🔥 Other projects
 <div>
   <a href="https://omexai.com/">omexai.com</a> |
-  <a href="https://w33bvgl.github.io/Crito/">crito.ru</a>
-  ㅤ
-  <a href="https://pandora-saga.com/">
-    <i>pandora-saga.com</i>
-  </a>
-  ㅤ
-  <a href="https://account.pandora-saga.com/">
-    <i>account.pandora-saga.com</i>
-  </a>
-  ㅤ
-  <a href="https://podarokru.ru/">
-    <i>podarokru.ru</i>
-  </a>
+  <a href="https://w33bvgl.github.io/Crito/">crito.ru</a> |
+  <a href="https://pandora-saga.com/">pandora-saga.com</a> |
+  <a href="https://account.pandora-saga.com/">account.pandora-saga.com</a> |
+  <a href="https://podarokru.ru/">podarokru.ru</a>
   ㅤ
   <a href="https://lk.shamil-ahmadullin.ru/">
     <i>lk.shamil-ahmadullin.ru</i>
