@@ -9,7 +9,7 @@
       </a>
     </td>
     <td>
-      <a href="https://jacko-food.github.io/jacko/">
+      <a href="https://anidzen-ecosystems.github.io/Sora-landing/">
         <img src="https://github.com/Anidzen-Ecosystems/Design-assets/blob/main/sora/SORA_LOGO_BLUE.png?raw=true" alt="Jacko logo" style="width: 400px;">
       </a>
     </td>
