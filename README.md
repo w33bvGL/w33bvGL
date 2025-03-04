@@ -32,35 +32,14 @@
   <a href="https://w33bvgl.github.io/Crito/">crito.ru</a> |
   <a href="https://pandora-saga.com/">pandora-saga.com</a> |
   <a href="https://account.pandora-saga.com/">account.pandora-saga.com</a> |
-  <a href="https://podarokru.ru/">podarokru.ru</a>
-  ㅤ
-  <a href="https://lk.shamil-ahmadullin.ru/">
-    <i>lk.shamil-ahmadullin.ru</i>
-  </a>
-  ㅤ
-  <a href="https://tgquickclick.netlify.app/">
-    <i>tgquickclick.netlify.app</i>
-  </a>
-  ㅤ
-  <a href="https://quiz.mari-karkas.ru/">
-    <i>quiz.mari-karkas.ru</i>
-  </a>
-  ㅤ
-  <a href="https://drive-fit.vercel.app/">
-    <i>drivefit.vercel.app</i>
-  </a>
-  ㅤ
-  <a href="https://w33bvgl.github.io/UDPLogistics/">
-    <i>UDPLogistics.ru</i>
-  </a>
-    ㅤ
-  <a href="https://w33bvgl.github.io/LasesVPN/">
-    <i>LasesVPN.ru</i>
-  </a>
-    ㅤ
-  <a href="https://w33bvgl.github.io/ProMotors/">
-    <i>ProMotors.ru</i>
-  </a>
+  <a href="https://podarokru.ru/">podarokru.ru</a> |
+  <a href="https://lk.shamil-ahmadullin.ru/">lk.shamil-ahmadullin.ru</a> |
+  <a href="https://tgquickclick.netlify.app/">tgquickclick.netlify.app</a> |
+  <a href="https://quiz.mari-karkas.ru/">quiz.mari-karkas.ru</a> |
+  <a href="https://drive-fit.vercel.app/">drivefit.vercel.app</a> |
+  <a href="https://w33bvgl.github.io/UDPLogistics/">UDPLogistics.ru</a> |
+  <a href="https://w33bvgl.github.io/LasesVPN/">LasesVPN.ru</a> |
+  <a href="https://w33bvgl.github.io/ProMotors/">ProMotors.ru</a>
 </div>
 
 ## 🏅 Achievements
