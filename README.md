@@ -50,5 +50,3 @@
     <img src="https://komarev.com/ghpvc/?username=w33bvGL" alt="page views" />
   </a>
 </p>
-
-[![w33bvGL Nuxter profile](https://nuxters.nuxt.com/card/w33bvGL/og.png)](https://nuxters.nuxt.com/w33bvGL)
