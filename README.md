@@ -23,13 +23,17 @@
         <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 400px;">
       </a>
     </td>
+  </tr>
+</table>
+
+<!-- 
+
     <td>
       <a href="https://w33bvgl.github.io/Crito/">
         <img src="https://raw.githubusercontent.com/w33bvGL/w33bvGL-porfolio/refs/heads/main/design-assets/logo-white-arial.png" alt="Crito logo" style="width: 400px;">
       </a>
     </td>
-  </tr>
-</table>
+-->
 
 ## 🔥 Other projects
 <div>
