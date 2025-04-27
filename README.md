@@ -14,8 +14,8 @@
       </a>
     </td>
     <td>
-      <a href="https://sora.anidzen.com">
-        <img src="https://github.com/Anidzen-Ecosystems/Design-assets/blob/main/sora/SORA_LOGO_BLUE.png?raw=true" alt="Jacko logo" style="width: 400px;">
+      <a href="https://aira.anidzen.com">
+        <img src="https://github.com/Anidzen-app/Design-assets/blob/main/aira/AIRA_LOGO.png?raw=true" alt="Aira" style="width: 400px;">
       </a>
     </td>
     <td>
