@@ -14,6 +14,11 @@
       </a>
     </td>
     <td>
+      <a href="https://sora.anidzen.com">
+        <img src="https://github.com/Anidzen-Ecosystems/Design-assets/blob/main/sora/SORA_LOGO_BLUE.png?raw=true" alt="Jacko logo" style="width: 400px;">
+      </a>
+    </td>
+    <td>
       <a href="https://jacko-food.github.io/jacko/">
         <img src="https://github.com/jacko-food/jacko/blob/main/assets/img/jacko/jacko-logo-template-3.png" alt="Jacko logo" style="width: 400px;">
       </a>
